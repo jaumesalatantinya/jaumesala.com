@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+body {
+    background-color: #FAFAFA;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    background: url(bck.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+aside {
+	display: block;
+    position: absolute;
+    bottom: 10em;
+    right: 6em;
+}
+
+h1 {
+    font-size: 5em;
+    color: #C4C4C4;
+    margin-top: 0.4em;
+}
+
+h2 {
+    font-size: 3em;
+    color: #C9C9C9;
+    margin-top: 0.2em;
+}
+
+h3 {
+    font-size: 2em;
+    color: #C9C9C9;
+}
+
+a {
+    color: #C9C9C9;
+}
+
+a:hover {
+    color: #7F7F7F;
+}

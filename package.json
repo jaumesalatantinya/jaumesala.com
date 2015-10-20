@@ -1,0 +1,10 @@
+{
+  "name": "jaumesala.com",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.1.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ftp-push": "^0.4.3"
+  }
+}
